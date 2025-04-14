@@ -64,8 +64,7 @@
 
 ### 🔗 Let’s Connect!
 
-- 📸 [Instagram (coming soon?)](https://instagram.com/)
-- 💬 [Let’s Talk Anime](https://myanimelist.net/)
+- 📸 [Instagram (coming soon?)](https://instagram.com/marshm3llow2)
 - 🧁 Want to collab on a cooking blog + dev repo? Let’s chat!
 
 ---
