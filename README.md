@@ -1,12 +1,75 @@
-- 👋 Hi, I’m Tina
-- 👀 I’m interested in Anime, IT, Content creating and cooking
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm an at home chef and baker
 
-<!---
-T1na2-design/T1na2-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">🔥 Hey everyone, I'm Tina! 🔥</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Rengoku from Demon Slayer" width="500"/>
+</p>
+
+---
+
+### 🌸 About Me 🌸
+
+- 👀 I’m interested in **Anime**, **IT**, **Content Creating**, and **Cooking**
+- 🌱 I’m currently learning **Software Development**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I'm an **at-home chef and baker**! 🍰👩‍🍳
+
+---
+
+### 🛠️ Languages & Tools I Use
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Embarcadero_Delphi_10.4_Sydney_Product_Icon.png" alt="Delphi" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tina2-design&show_icons=true&theme=tokyonight" alt="Tina's GitHub stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Tina2-design&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+### 🧿 Badges & Fun Counters
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tina2-design&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Anime-lover-%23FF69B4?style=flat-square&logo=funimation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coding%20&%20Cooking-Fusion%20Style-orange?style=flat-square"/>
+</p>
+
+---
+
+### ✨ Anime Quote of the Day
+
+> <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" />
+
+*Above quote loads dynamically and changes every time the page is refreshed!*
+
+---
+
+### 🍱 Aesthetic Vibes
+
+> *"Set your heart ablaze!"* – Kyojuro Rengoku 🔥  
+> I code with passion and plate my food like an artist.  
+> Let’s build and create with anime spirit & good flavor!
+
+---
+
+### 🔗 Let’s Connect!
+
+- 📸 [Instagram ](https://instagram.com/marshm3llow2)
+- 🧁 Want to collab on a cooking blog + dev repo? Let’s chat!
+
+---
+
+<p align="center">
+  <img src="https://anime-chan.me/uploads/posts/2021-04/1617585835_anime-chan.jpg" alt="Anime aesthetic" width="300"/>
+</p>
