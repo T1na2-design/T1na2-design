@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tina2-design&show_icons=true&theme=tokyonight" alt="Tina's GitHub stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Tina2-design&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
----
 
 ### 🧿 Badges & Fun Counters
 
