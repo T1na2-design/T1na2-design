@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T1na2-design
+- 👋 Hi, I’m Tina
 - 👀 I’m interested in Anime, IT, Content creating and cooking
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
