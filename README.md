@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://anime-chan.me/uploads/posts/2021-04/1617585835_anime-chan.jpg" alt="Anime aesthetic" width="300"/>
+ <img src="https://fabrikbrands.com/wp-content/uploads/Demon-Slayer-Logo.png" alt="Demon Slayer Logo" width="150"/>
 </p>
