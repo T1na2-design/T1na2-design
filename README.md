@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Embarcadero_Delphi_10.4_Sydney_Product_Icon.png" alt="Delphi" width="40" height="40"/>
+  <img src="./delphi-icon.png" alt="Delphi" width="40" height="40"/>
 </p>
 
 ---
