@@ -2,7 +2,7 @@
 <h1 align="center">🔥 Hey everyone, I'm Tina! 🔥</h1>
 
 <p align="center">
-  <img src=["https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx6eXA0dXZtYmU0OHV2OGlxaHJsdTIxcHlqdzV2dGl4cDMyNHY5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif) alt="Rengoku from Demon Slayer" width="500"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx6eXA0dXZtYmU0OHV2OGlxaHJsdTIxcHlqdzV2dGl4cDMyNHY5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif  alt="Rengoku from Demon Slayer" width="500"/>
 </p>
 
 ---
