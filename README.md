@@ -57,7 +57,7 @@
 
 ### 🔗 Let’s Connect!
 
-- 📸 [Instagram (coming soon?)](https://instagram.com/marshm3llow2)
+- 📸 [Instagram IG:@Marsh3llow2](https://instagram.com/marshm3llow2)
 - 🧁 Want to collab on a cooking blog + dev repo? Let’s chat!
 
 ---
